@@ -10,9 +10,9 @@ By the end of this lesson you should be able to:
 * Able to open and edit a file in nano
 * Able to open and close a file in Vim (:wq) 
 * Able to navigate your own computer with the command line
-
+Here is some text
 ## Outline 
-
+Add some text to this.
 I. Computer is A Tree
 	A. First in Finder
 	B. Then on Whiteboard
