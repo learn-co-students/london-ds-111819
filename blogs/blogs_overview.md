@@ -27,6 +27,13 @@ In thinking about a blog topic, it is important to define a general area of inte
 
 From an insider perspective, writing blogs is very much about signaling that you are the person for the job. Anyone in technology would much rather work with someone who can communicate clearly and can then be taught more complex concepts rather than someone who presumably knows a lot but is difficult to communicate with. This is your chance to show that you are the former and not the latter.
 
+Note that for your first blog, you are not expected to go very in depth into a technical topic, but rather introduce yourself regarding how and why you got involved in data science.
+You should still approximate our narrative, but the first blog is not supposed to be a how-to.
+Think of it as a chance to show off how you plan to intergrate your domain knowledge with what you know of data science.
+
+Blogs can be written on any medium, but many people choose to use [Medium](https://medium.com/) to host their blogs.
+You do not have to publish your blogs to the web if you feel uncomfortable doing so, in fact in some cases we as instructors might advise against that, but the choice is yours.
+
 # Example
 
 Since writing is hard, below we offer a boilerplate template that you can follow in order to begin to structure your ideas. You do not have to follow it, but if you master this narrative then you will find that communicating ideas clearly will become much easier over time. 
