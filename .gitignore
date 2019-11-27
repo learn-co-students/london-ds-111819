@@ -202,3 +202,4 @@ dmypy.json
 .pyre/
 
 # End of https://www.gitignore.io/api/jupyternotebooks,python,emacs,macos,pydev
+student/*
