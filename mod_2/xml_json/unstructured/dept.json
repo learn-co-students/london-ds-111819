@@ -1,0 +1,11 @@
+{
+    "name": "The Dog and Bell",
+    "location" : "Deptford",
+    "old_man_pub": true,
+    "years_old": 500,
+    "types_of_crips" : ["salt and vinegar","sweet chili","prawn cocktail"],
+    "beers" : [{
+        "real_ales" : ["Truman's","Harvey's"],
+        "unreal_beers": ["Beavertown Neck Oil", "Beavertown Gamma Ray","Punk IPA"]
+    }]
+}
