@@ -102,24 +102,24 @@ Your presentation should:
 ### Timeline:
 - Friday morning: Project Assigned
 - Friday End-of-Day: Project Approval
- - defined stakeholder you want to help
- - defined problem to help them with
- - defined target variable to predict
- - preliminary exploratory data analysis to gauge feasibility
+  - defined stakeholder you want to help
+  - defined problem to help them with
+  - defined target variable to predict
+  - preliminary exploratory data analysis to gauge feasibility
 - Monday End-of-Day: Minimum Viable Product pushed
- - Full exploratory data analysis
- - Full baseline model trained
- - Full set of predictions / solution to your business problem
+  - Full exploratory data analysis
+  - Full baseline model trained
+  - Full set of predictions / solution to your business problem
 - Tuesday End-of-Day:
- - Final model selected through a process of validation with appropriate set up
- - Final model validated on test like setup
- - Quality Code pushed
- - Video presentation recording submitted
+  - Final model selected through a process of validation with appropriate set up
+  - Final model validated on test like setup
+  - Quality Code pushed
+  - Video presentation recording submitted
 - Wednesday morning: Rehearsing
 - Wednesday afternoon:
- - Presentations
-  - 5 minutes non-technical presentation
-  - 5 minute Q&A with technical and non-technical questions
+  - Presentations
+    - 5 minutes non-technical presentation
+    - 5 minute Q&A with technical and non-technical questions
 
 
 ### We will be paying attention to:
@@ -127,8 +127,8 @@ Your presentation should:
 - How well you apply validation / generalisation concepts
 - How well you address your stakeholder's needs
 - How well you communicate
- - Your non-technical stakeholder should know by the end of your presentation:
-  - What action to take based on your analysis
-  - What are the limitations of your findings (so that they don't make expensive mistakes)
- - You should be able to explain anything contained in your slides or code
+  - Your non-technical stakeholder should know by the end of your presentation:
+    - What action to take based on your analysis
+    - What are the limitations of your findings (so that they don't make expensive mistakes)
+  - You should be able to explain anything contained in your slides or code
 - How well you implement the regression concepts we have covered in the course
