@@ -93,10 +93,10 @@ There's just too much going on in this graph for it to be readable--don't make t
 Your presentation should:
 
 - Be aimed at a non-technical audience
--- Avoid technical jargon and explain results in a clear, actionable way for non-technical audiences.
+  - Avoid technical jargon and explain results in a clear, actionable way for non-technical audiences.
 - Contain between 5-10 professional quality slides detailing:
--- A high-level overview of your methodology and findings
--- A brief explanation of what metrics you defined as "best" in order complete this project
+  - A high-level overview of your methodology and findings
+  - A brief explanation of what metrics you defined as "best" in order complete this project
 - Take no more than 5 minutes to present
 
 ### Timeline:
