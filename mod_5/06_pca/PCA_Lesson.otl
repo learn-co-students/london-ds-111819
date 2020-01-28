@@ -1,0 +1,54 @@
+PCA Lesson
+
+WTF PCA?
+	Unsupervised Learning
+		How many scatter plots can you even make (p. 375)
+		Low Dimensional Representation of the Data 
+		Applied Cases 
+		Examples
+	Supervised vs Unsupervised Discussion
+		Applied Cases 
+	Curse of Dimensionality 
+		Interview Question
+	Use Case 
+		Mismeasure of Man
+		Intelligence: G
+		Personality: Big Five
+		Personality: Meyers Briggs
+		Reification
+	Understanding Dataset? New Ideas?  
+		Regression
+		"Clustering" / Segmentation
+Dependancy of Data 
+	Data Defines the Space 
+High Level What is Going On
+	Big Old Correlation Matrix
+	Look for Vectors to Pull Out 
+
+
+Running a PCA 
+	Data Space 
+	Correlation Matrix
+	Selecting How Many Compontents 
+		Theory
+		Variance Explained 
+		Parallel Analysis 
+	Unique vs Shared Variance 
+	Rotation 
+	Rest of Steps for PCA 
+	
+Eignenvalues 
+	Three Blue One Brown
+	What are Eigenvectors
+	What are Eigenvalues 
+	Eigendecomposition?
+
+Rotation? 
+
+Scikit Learn
+
+Visualize what PCA Looks Like for Component 
+	Plot Decision Boundary?
+
+Using It As Regression 
+
