@@ -60,6 +60,7 @@ For this project, your Jupyter Notebook should meet the following specifications
 ## We will be paying attention to:
 
 * CRISP-DM structure
+
 * Problem Framing
 * **Relevant** Exploratory Data Analysis
 * Data Transformations (only those appropriate to your application):
@@ -70,14 +71,18 @@ For this project, your Jupyter Notebook should meet the following specifications
   - Interactions
   - Polynomial Transformations
   - Dimensionality Reduction
+
 * Checking Learners Assumptions
 * Hyper parameter Optimisation
 * Model Comparison and Selection
+
 * Train / Validation / Test (or CV where appropriate)
+* Threshold Selection
 * Model Interpretation
-* Actionable Problem-Solving Recommendations
 
 * Properly commented and clean code
+
+* Actionable Problem-Solving Recommendations
 
 * Prediction Function
   - Take data in original format
