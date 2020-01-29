@@ -27,7 +27,7 @@ You will work with your partner to find a dataset and have it cleared with the i
 
 ## The data
 
-We will be working with a dataset of your own choosing for this project! We ask that it has at LEAST 10K rows and can be used to solve a classification problem. Ideally you will have balanced classes for prediction (no trying to do outlier prediction! AKA predict the next hit song) and try to avoid models where you are doing multi-class prediction. 
+We will be working with a dataset of your own choosing for this project! We ask that it has at LEAST 10K rows and can be used to solve a classification problem. Ideally you will have balanced classes for prediction (no trying to do outlier prediction! AKA predict the next hit song) and try to avoid models where you are doing multi-class prediction.
 
 ## The Deliverables
 
@@ -37,7 +37,7 @@ For online students, your completed project should contain the following four de
 
 2. An organized **README.md** file in the GitHub repository that describes the contents of the repository. This file should be the source of information for navigating through the repository and be an Executive Summary of your findings.
 
-3. An **_"Executive Summary" PowerPoint Presentation_** that gives a brief overview of your problem/dataset, and each step of the OSEMN process.
+3. An **_"Executive Summary" PowerPoint Presentation_** that gives a brief overview of your problem/dataset, and each step of the CRISP-DM process.
 
 Note: On-campus students may have different deliverables, please speak with your instructor.
 
@@ -54,9 +54,32 @@ For this project, your Jupyter Notebook should meet the following specifications
 **_Process, Methodology, and Findings_**
 
 * Your notebook should contain a clear record of your process and methodology for exploring and preprocessing your data, building and tuning a model, and interpreting your results.
-* We recommend you use the OSEMN process to help organize your thoughts and stay on track.
+* We recommend you use the CRISP-DM process to help organize your thoughts and stay on track.
 * Don't forget to add a summary of this to your README.dm
 
-## Grading Rubric
+## We will be paying attention to:
 
-You can find a PDF of the grading rubric for the project [here](https://github.com/learn-co-curriculum/dsc-mod-5-project/blob/master/module5_project_rubric.pdf).
+* CRISP-DM structure
+* Problem Framing
+* **Relevant** Exploratory Data Analysis
+* Data Transformations (only those appropriate to your application):
+  - Cleaning
+  - Scaling
+  - Feature Engineering (what magic can you do here?)
+  - Feature Selection
+  - Interactions
+  - Polynomial Transformations
+  - Dimensionality Reduction
+* Checking Learners Assumptions
+* Hyper parameter Optimisation
+* Model Comparison and Selection
+* Train / Validation / Test (or CV where appropriate)
+* Model Interpretation
+* Actionable Problem-Solving Recommendations
+
+* Properly commented and clean code
+
+* Prediction Function
+  - Take data in original format
+  - Generate a prediction
+  - Translate it into an action for your client
