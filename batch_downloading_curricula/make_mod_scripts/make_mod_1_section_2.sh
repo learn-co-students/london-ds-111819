@@ -1,0 +1,13 @@
+git clone https://github.com/learn-co-curriculum/dsc-git-bash-collab-intro.git
+git clone https://github.com/learn-co-curriculum/dsc-bash-shell.git
+git clone https://github.com/learn-co-curriculum/dsc-git-version-control-101.git
+git clone https://github.com/learn-co-curriculum/dsc-git-intro.git
+git clone https://github.com/learn-co-curriculum/dsc-git-intro-qz.git
+git clone https://github.com/learn-co-curriculum/dsc-git-practice.git
+git clone https://github.com/learn-co-curriculum/dsc-git-branches.git
+git clone https://github.com/learn-co-curriculum/dsc-git-merge-lab.git
+git clone https://github.com/learn-co-curriculum/dsc-git-stash-lab.git
+git clone https://github.com/learn-co-curriculum/dsc-git-resources.git
+git clone https://github.com/learn-co-curriculum/dsc-PEP8.git
+git clone https://github.com/learn-co-curriculum/dsc-analyzing-macbeth-project.git
+git clone https://github.com/learn-co-curriculum/dsc-git-collab-recap.git

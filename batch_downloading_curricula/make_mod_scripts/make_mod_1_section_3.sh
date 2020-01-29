@@ -1,0 +1,22 @@
+# Make Mod 1 Section 3.git
+git clone https://github.com/learn-co-curriculum/dsc-python-section-intro.git
+git clone https://github.com/learn-co-curriculum/dsc-python-operators-functions-and-methods.git
+git clone https://github.com/learn-co-curriculum/dsc-python-operators-functions-and-methods-lab.git
+git clone https://github.com/learn-co-curriculum/dsc-while-loops-break-and-continue.git
+git clone https://github.com/learn-co-curriculum/dsc-while-loops-break-and-continue-lab.git
+git clone https://github.com/learn-co-curriculum/dsc-using-nested-loops.git
+git clone https://github.com/learn-co-curriculum/dsc-using-nested-loops-lab.git
+git clone https://github.com/learn-co-curriculum/dsc-creating-functions.git
+git clone https://github.com/learn-co-curriculum/dsc-creating-functions-lab.git
+git clone https://github.com/learn-co-curriculum/dsc-functions-with-arguments.git
+git clone https://github.com/learn-co-curriculum/dsc-functions-with-arguments-lab.git
+git clone https://github.com/learn-co-curriculum/dsc-mathematical-notation.git
+git clone https://github.com/learn-co-curriculum/dsc-measures-of-central-tendency.git
+git clone https://github.com/learn-co-curriculum/dsc-measures-of-central-tendency-quiz.git
+git clone https://github.com/learn-co-curriculum/dsc-measures-of-dispersion.git
+git clone https://github.com/learn-co-curriculum/dsc-measures-of-dispersion-quiz.git
+git clone https://github.com/learn-co-curriculum/dsc-implementing-statistics-with-functions-lab.git
+git clone https://github.com/learn-co-curriculum/dsc-user-input-and-output-in-python.git
+git clone https://github.com/learn-co-curriculum/dsc-project-building-a-calculator.git
+git clone https://github.com/learn-co-curriculum/dsc-python-section-recap.git
+git clone .git
