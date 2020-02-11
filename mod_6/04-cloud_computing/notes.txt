@@ -1,0 +1,4 @@
+Latency – Regions can be selected to be closet to the targeted user base to reduce data latency
+Cost – AWS provides the same set of services across all regions, usually, however the cost would differ from region to region depending upon the cost (due to land, electricity, bandwidth etc) incurred by Amazon and hence can be cheaper in one region compared to the other
+Legal Compliance – Lot of the countries enforce compliance and regulatory requirements for data to reside within the region itself
+Features – As not all the regions provide all the AWS features and services, the region selection can depend on the Services supported by the region
